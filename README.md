@@ -52,7 +52,7 @@ jupyter notebook crop-recommendation.ipynb
 ```
 
 ## 🔍 Sample Output
--- The model outputs the most suitable crop, such as:
+The model outputs the most suitable crop, such as:
 ```bash
 Recommended Crop: rice
 ```
