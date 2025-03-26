@@ -34,7 +34,7 @@ cd crop-recommendation
 pip install -r requirements.txt
 ```
 
-##🚀 Usage:
+## 🚀 Usage:
 
 **1. Load the dataset and explore basic statistics.**
 
