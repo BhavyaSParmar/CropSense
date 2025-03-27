@@ -4,7 +4,7 @@ A simple yet powerful machine learning-based crop recommendation system that sug
 
 ## 🛠️ Tech Stack
 
-- **Python**
+- **Python** 
 - **Pandas**, **NumPy**
 - **Matplotlib**, **Seaborn**
 - **Scikit-learn**
