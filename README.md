@@ -1,7 +1,7 @@
 # 🌾 Crop Recommendation System
 
 A simple yet powerful machine learning-based crop recommendation system that suggests the most suitable crop to cultivate based on soil and environmental conditions.
-
+  
 ## 🛠️ Tech Stack
 
 - **Python** 
